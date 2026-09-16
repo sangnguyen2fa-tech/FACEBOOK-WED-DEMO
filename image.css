@@ -1,0 +1,27 @@
+.image{
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.image-style{
+    display: flex;
+    width: 670px;
+    position: absolute;
+    right: 20px;
+    
+}
+.Facebook-logo{
+    display: flex;
+    position: absolute;
+    width: 200px;
+    left: -15px;
+    top: 30px;
+}
+
+.explore{
+    display: flex;
+    position: absolute;
+    bottom: 70px;
+    width: 300px;
+    left: 35px;
+}
